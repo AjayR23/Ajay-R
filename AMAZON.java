@@ -1,9 +1,9 @@
 import java.util.*;
 
- class Main {
+public  class Amazon {
     static Scanner sc = new Scanner(System.in);
     static int p = 123;
-    static String k = "Ajay";
+    static String k = "AJAY";
     static String uname = "";
     static String pass = "";
     static int count = 0;
