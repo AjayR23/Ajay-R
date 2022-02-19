@@ -1,4 +1,4 @@
-2.AMAZON Application
+1.AMAZON Application
 
 Admin :
 
